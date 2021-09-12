@@ -8,5 +8,10 @@ https://abzraja.github.io/Web-Design-Challenge/
 I have attempted to meet all the requirements.
 
 ## Bonus
-I attempted some of the bonuses such as the bootswatch theme and the active visualtion navigation.
+I attempted some of the bonuses such as the bootswatch theme and the active visualisation navigation.
+
+## Files
+* All the html and css files are in the root directory.
+* Images are in the Resources/assets/images/ folder.
+* There is a PD Dataframe to HTML.ipynb (Jupyter Notebook) file in the root folder with the code used to generate the HTML file from the cities.csv file in the Resources folder.
 
