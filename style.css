@@ -1,40 +1,23 @@
 body {
-    font-size: large; font-weight:500;
-    background:#EEE;
+      font-weight: 400;
+    }
+
+.navbar.navbar-light
+{
+  background-color:lightseagreen;
 }
 
 
-.container-fluid {padding-inline-start: 20px;}
-
-.navbar-light {padding: 0px;}
-
-.navbar-light .navbar-brand {color: white;}
-
-.navbar-brand {
-                height: 50px;
-                padding:10px;
-                background-color:lightseagreen;
-                text-align: center;
-
-            }
-
-content {background: white;}
 
 
+@media (min-width: 768px) { 
+  body {
+    background:rgb(238, 238, 238);
+  } 
 
-/* Adding media queries to show the drop-down, and hide the navbar when the screen is smaller than 480 pixels */
-@media (max-width: 600px) {
-    .navbar li {
-      padding: 10px;
-    }
-  
-    .post {
-      margin-right: 30px;
-      margin-left: 30px;
-    }
-
-    .container-fluid {
-        background: lightseagreen;
-        
-    }
+  .navbar .container-fluid {
+    background-color:white;
   }
+
+ }
+
