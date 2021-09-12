@@ -1,6 +1,9 @@
+.navbar .navbar-nav {
+      font-weight: bold;
+      font-size: 1.1em;
+     }
 
-
-    .navbar .navbar-brand {
+.navbar .navbar-brand {
       color: white;
       font-weight:bold;
       font-size: 1.5em;
