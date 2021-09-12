@@ -1,6 +1,8 @@
 # Web-Design-Challenge
 This was an extremely difficult challenge due to the fact that class lessons on bootstrap were too short. This challenge required a lot of research and self-study to complete.
 
+I ran out of time before I was able to write this readme to a better standard. However I managed to complete a few of the bonuses.
+
 ## Link to Completed Site
 https://abzraja.github.io/Web-Design-Challenge/
 
