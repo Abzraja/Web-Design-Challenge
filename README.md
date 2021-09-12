@@ -8,7 +8,10 @@ https://abzraja.github.io/Web-Design-Challenge/
 I have attempted to meet all the requirements.
 
 ## Bonus
-I attempted some of the bonuses such as the bootswatch theme and the active visualisation navigation.
+I attempted some of the bonuses such as 
+* Bootswatch theme
+* Active visualisation navigation.
+* Glyphicon - I only put a single glyphicon on the index page. I ran out of time to include it on all pages.
 
 ## Files
 * All the html and css files are in the root directory.
