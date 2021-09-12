@@ -4,7 +4,7 @@
 <head>
 
   <meta charset="UTF-8">
-  <title>Data Analytics - Home</title>
+  <title>Data Analytics - Max Temperature Plot</title>
 
   <!-- Bring in our bootstrap stylesheet -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
@@ -51,11 +51,12 @@
       <div class="row">
         <div class="col-md-7">
           <div class="bg-white p-5">
-            <h1>Summary: Latitude vs X.</h1>
+            <h1>Max Temperature</h1>
           <hr/>
-          <p><img class="float-start" src="Resources/assets/images/Fig1.png" alt="Figure 1" width="200px", height="200px"><p>The purpose of this project was to analyze how weather changes as you get closer to the equator. To acomplish this analysis, we first pulled data from the OpenWeatherMap API to assemble a dataset on over 500 cities.</p>
-             <p>After assembling the dataset, we used Matplotlib to plot various aspects of the weather vs latitude. Factors we looked at included: temperature, cloudiness, wind speed, and humidity. This site procie the source data and visualizations created as part of the analysis, as well as explanations and descriptions of any trends and correlations witnessed.
-             </p>
+          <p><img src="Resources/assets/images/Fig1.png" alt="Figure 1" width="100%">
+            <p>
+                As expected, the weather becomes significantly warmer as one approaches the equator (0 Deg. Latitude). More interestingly, however, is the fact that the southern hemisphere tends to be warmer this time of year than the northern hemisphere. This may be due to the tilt of the earth at the time of the year this data was gathered.
+            </p>
           </div>
         </div>
   
@@ -63,7 +64,7 @@
           <div class="bg-white p-5">
             <h1>Visualisations</h1>
             <hr/> 
-              <a href="max_temperature.html"><img src="Resources/assets/images/Fig1.png" width="150px" height="150px"></a>
+              <img class="border border-primary border-2" src="Resources/assets/images/Fig1.png" width="150px" height="150px">
               <a href="humidity.html"><img src="Resources/assets/images/Fig2.png" width="150px" height="150px"></a>
               <a href="cloudiness.html"><img src="Resources/assets/images/Fig3.png" width="150px" height="150px"></a>
               <a href="wind_speed.html"><img src="Resources/assets/images/Fig4.png" width="150px" height="150px"></a>
