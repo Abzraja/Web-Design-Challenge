@@ -1,5 +1,5 @@
 # Web-Design-Challenge
-This was an extremely difficult challenge due to the classes on bootstrap being too short. This challenge required a lot of research and self-study to complete.
+This was an extremely difficult challenge due to the fact that class lessons on bootstrap were too short. This challenge required a lot of research and self-study to complete.
 
 ## Link to Completed Site
 https://abzraja.github.io/Web-Design-Challenge/
