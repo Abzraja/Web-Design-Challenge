@@ -6,7 +6,7 @@ https://abzraja.github.io/bootstrap-web-dashboard/
 
 ### Summary
 
-Created a  responsive web dashboard using HTML, CSS, and Bootstrap, to present visulisations from a previous project.
+Created a responsive web dashboard using HTML, CSS, and Bootstrap, to present visualisations from a previous project in a professional and interactive way.
 
 <br />
 <br />
